@@ -1,0 +1,7 @@
+.bottom {
+    height: 12vh;
+    background-color: var(--primary);
+    margin-top: 5.5rem;
+    border-top-left-radius: 5rem;
+    border-top-right-radius: 5rem;
+}
